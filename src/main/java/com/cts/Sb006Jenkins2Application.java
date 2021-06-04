@@ -15,6 +15,6 @@ public class Sb006Jenkins2Application {
 @GetMapping
  public String ss()
  {
-  return "HEllo JeNKinS";
+  return "HEllo JeNKinS...";
  }
 }
